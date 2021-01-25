@@ -4,9 +4,8 @@ Undergraduate Student at CS in USTC.
 
 - Blog: https://oyyko.com/
 - CodeWars: [![](https://www.codewars.com/users/Oyyko/badges/micro)](https://www.codewars.com/users/Oyyko/)
-- [StackOverflow](https://stackoverflow.com/users/15070999/jia-zhang)
-
-
+- StackOverflow: https://stackoverflow.com/users/15070999/jia-zhang
+- Resume Online: https://oyyko.com/about/resume
 ---
 
 ## 📊 Weekly development breakdown
