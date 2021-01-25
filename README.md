@@ -7,4 +7,10 @@ Undergraduate Student at CS in USTC.
 - [StackOverflow](https://stackoverflow.com/users/15070999/jia-zhang)
 
 <!--START_SECTION:waka-->
+```text
+C          1 hr 16 mins    ███████████▓░░░░░░░░░░░░░   46.34 % 
+Markdown   54 mins         ████████▒░░░░░░░░░░░░░░░░   32.81 % 
+YAML       19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+C++        15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+```
 <!--END_SECTION:waka-->
