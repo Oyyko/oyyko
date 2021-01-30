@@ -8,14 +8,7 @@ Undergraduate Student at CS in USTC.
 - Very interested in Algorithm & PLT. Dream to do excellent work with outstanding people.
 ---
 
-## 📊 Weekly development breakdown
 
-<!--START_SECTION:waka-->
-```text
-Markdown   4 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 % 
-Rust       3 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
-C          2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-C++        1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-YAML       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oyyko&layout=compact" alt="oyyko's wakatime stats"></td>
+ 
+
