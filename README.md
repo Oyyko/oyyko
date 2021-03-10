@@ -1,4 +1,6 @@
-Undergraduate Student at CS in USTC.
+Undergraduate Student
+
+Computer Science@USTC
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Oyyko&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
