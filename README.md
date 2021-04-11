@@ -12,5 +12,7 @@ Computer Science@USTC
 
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oyyko&layout=compact" alt="oyyko's wakatime stats"></td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyyko&langs_count=16&layout=compact&hide=html,javascript)
  
 
