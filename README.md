@@ -1,6 +1,6 @@
 Undergraduate Student 
 
-[![Github](https://img.shields.io/github/followers/Oyyko?label=Follow&style=social)](https://github.com/Oyyko)
+[![Github](https://img.shields.io/github/followers/Oyyko?label=Followers&style=social)](https://github.com/Oyyko)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOyyko&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
