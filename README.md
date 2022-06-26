@@ -12,7 +12,7 @@ Computer Science@USTC
 
 - Blog: https://blog.oyyko.com/
 - CodeWars: [![](https://www.codewars.com/users/Oyyko/badges/micro)](https://www.codewars.com/users/Oyyko/)
-- StackOverflow: https://stackoverflow.com/users/15070999/jia-zhang
+- StackOverflow: ![](https://stackoverflow.com/users/flair/15070999.png?theme=dark)
 - Very interested in Algorithm & PLT. Dream to do excellent works with outstanding people.
 - My favorite language: ![](https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
 - Work on ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
