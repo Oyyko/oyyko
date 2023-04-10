@@ -4,6 +4,8 @@ The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/coun
 
 My Coding Time Since Jan 24 2021: [![wakatime](https://wakatime.com/badge/user/97013d24-a6a1-4a2d-902f-a8c042f6a574.svg)](https://wakatime.com/@97013d24-a6a1-4a2d-902f-a8c042f6a574)
 
+CodeTime Since April 11 2023: [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D4563%26project%3D%26in%3D0)](https://codetime.dev)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Oyyko&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
 - Website: https://oyyko.com/
