@@ -15,9 +15,6 @@ CodeTime Since April 11 2023: [![CodeTime badge](https://img.shields.io/endpoint
 - OS: ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ---
 
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oyyko&layout=compact" alt="oyyko's wakatime stats"></td>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyyko&langs_count=16&layout=compact&hide=html,javascript)
  
 
