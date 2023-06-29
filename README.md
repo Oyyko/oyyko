@@ -1,4 +1,5 @@
 # 💫 About Me:
+🎓 I am a bachelor from University of Science and Technology of China, and I am currently pursuing a master's degree in computer science at UC San Diego.
 🔭 I’m currently working on [mogan](https://github.com/XmacsLabs/mogan), VirtIO<br>👯 I am looking for cooperation in study and job hunting<br>🌱 I’m currently learning C++, Rust, VirtIO, Haskell
 <br>The number of my followers: [![Github](https://img.shields.io/github/followers/Oyyko?label=Followers&style=social)](https://github.com/Oyyko)
 <br>The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOyyko&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
