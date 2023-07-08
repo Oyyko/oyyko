@@ -7,11 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Github](https://stats.justsong.cn/api/github?username=oyyko&theme=solarized-dark)](https://github.com/Oyyko)
-
-[![Zhihu](https://stats.justsong.cn/api/zhihu?username=asuka2001&theme=solarized-dark)](https://www.zhihu.com/people/asuka2001)
-
-[![Leetcode](https://stats.justsong.cn/api/leetcode?username=oyyko&cn=true&theme=solarized-dark)](https://leetcode.cn/u/oyyko/)
+[![Github](https://stats.justsong.cn/api/github?username=oyyko&theme=solarized-dark)](https://github.com/Oyyko)  [![Leetcode](https://stats.justsong.cn/api/leetcode?username=oyyko&cn=true&theme=solarized-dark)](https://leetcode.cn/u/oyyko/)
 
 # 💻 Tech Stack:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) 
@@ -28,17 +24,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Oyyko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Oyyko&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
