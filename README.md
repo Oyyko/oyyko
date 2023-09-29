@@ -5,10 +5,6 @@
 <br>My Coding Time (incomplete statistics) Since Jan 24 2021: [![wakatime](https://wakatime.com/badge/user/97013d24-a6a1-4a2d-902f-a8c042f6a574.svg)](https://wakatime.com/@97013d24-a6a1-4a2d-902f-a8c042f6a574)
 <br>My website: [https://oyyko.com/](https://oyyko.com/)
 
-
-## 🌐 Socials:
-[![Github](https://stats.justsong.cn/api/github?username=oyyko&theme=solarized-dark)](https://github.com/Oyyko)  [![Leetcode](https://stats.justsong.cn/api/leetcode?username=oyyko&cn=true&theme=solarized-dark)](https://leetcode.cn/u/oyyko/)
-
 # 💻 Tech Stack:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) 
 
