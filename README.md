@@ -1,9 +1,13 @@
 # 💫 About Me:
-🎓 I am a bachelor from University of Science and Technology of China, and I am currently pursuing a master's degree in computer science at UC San Diego.
-<br>🔭 I’m currently working on [mogan](https://github.com/XmacsLabs/mogan).<br>👯 I am looking for cooperation in study and job hunting<br>🌱 I’m currently learning C++, Rust, Scheme, Haskell.
-<br>The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOyyko&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
-<br>My Coding Time (incomplete statistics) Since Jan 24 2021: [![wakatime](https://wakatime.com/badge/user/97013d24-a6a1-4a2d-902f-a8c042f6a574.svg)](https://wakatime.com/@97013d24-a6a1-4a2d-902f-a8c042f6a574)
-<br>My website: [https://oyyko.com/](https://oyyko.com/)
+🌍 My website: [https://oyyko.com/](https://oyyko.com/)
+<br> 📖 My Blog: [https://blog.oyyko.com/](https://blog.oyyko.com/)
+<br> 🎓 I am a bachelor from **University of Science and Technology of China**, and I am currently pursuing a master's degree in computer science at **UC San Diego**.
+<br> 🔭 I’m currently working on [mogan](https://github.com/XmacsLabs/mogan).
+<br> 👯 I am looking for cooperation in study and job hunting
+<br> 🌱 I’m currently learning C++20, Rust, Scheme and Haskell.
+<br> 📉 The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOyyko&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+<br> ⌚️ My Coding Time (incomplete statistics) since Jan 24 2021: [![wakatime](https://wakatime.com/badge/user/97013d24-a6a1-4a2d-902f-a8c042f6a574.svg)](https://wakatime.com/@97013d24-a6a1-4a2d-902f-a8c042f6a574)
+
 
 # 💻 Tech Stack:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) 
@@ -16,7 +20,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 	![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 	![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
