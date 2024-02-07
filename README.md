@@ -32,6 +32,9 @@
             alt="Oyyko's wakatime stats">
     </a>
 
+Steam:
+![Steam](https://steam-stat.vercel.app/api?profileName=oyyko)
+
 
 
  
