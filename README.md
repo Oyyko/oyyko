@@ -2,7 +2,7 @@
 🌍 My website: [https://oyyko.com/](https://oyyko.com/)
 <br> 📖 My Blog: [https://blog.oyyko.com/](https://blog.oyyko.com/)
 <br> 🎓 I am currently pursuing a master's degree in computer science at **UC San Diego**. And I am a bachelor from **University of Science and Technology of China**. 
-<br> 🔭 I’m contribute on [mogan](https://github.com/XmacsLabs/mogan).
+<br> 🔭 I’m contributing on [mogan(GNU TeXMacs)](https://github.com/XmacsLabs/mogan).
 <br> 👯 I am looking for cooperation in study and job hunting
 <br> 🌱 I know C++20, Rust, Scheme and Haskell.
 <br> 📉 The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOyyko&count_bg=%2333AA87&title_bg=%23555555&icon=kde.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
