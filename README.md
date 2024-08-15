@@ -11,8 +11,9 @@
 
 
 # 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,rust,go,java,js,ts)](https://skillicons.dev)
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,react,nodejs,django,flask)](https://skillicons.dev)
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
