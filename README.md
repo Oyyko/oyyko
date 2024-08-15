@@ -11,13 +11,36 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,rust,go,java,js,ts)](https://skillicons.dev)
+Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,react,nodejs,django,flask)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=cpp,c,python,rust,go,java,js,ts,haskell,ruby,lua,bash,cs,clojure,elixir,scala)](https://skillicons.dev)
+---
+Build System:
 
+[![Build System](https://skillicons.dev/icons?i=cmake,)](https://skillicons.dev), Bazel, Ninja, Make
+---
+Full Stack:
+
+[![Web](https://skillicons.dev/icons?i=html,css,vue,react,nodejs,django,flask,sass,docker,dotnet,graphql,kubernetes,mongodb,mysql,nginx,pnpm,rabbitmq,rails,redis,spring,sqlite)](https://skillicons.dev)
+---
+Operating Systems:
+
+[![OS](https://skillicons.dev/icons?i=linux,arch,apple,nix,windows)](https://skillicons.dev)
+---
+Editor:
+
+[![Editor](https://skillicons.dev/icons?i=vim,vscode,emacs,obsidian)](https://skillicons.dev)
+---
+Misc:
+
+[![Misc](https://skillicons.dev/icons?i=git,github,gtk,latex,qt,regex,)](https://skillicons.dev)
+---
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oyyko&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 
 <a href="https://wakatime.com/@oyyko/">
