@@ -1,6 +1,5 @@
 # 💫 About Me:
 🌍 My website: [https://oyyko.com/](https://oyyko.com/)
-<br> 📖 My Blog: [https://blog.oyyko.com/](https://blog.oyyko.com/)
 <br> 🎓 I am currently pursuing a master's degree in computer science at **UC San Diego**. And I am a bachelor from **University of Science and Technology of China**. 
 <br> 🔭 I’m contributing on [mogan(GNU TeXMacs)](https://github.com/XmacsLabs/mogan).
 <br> 👯 I am looking for cooperation in study and job hunting
